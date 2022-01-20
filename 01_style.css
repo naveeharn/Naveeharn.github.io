@@ -118,6 +118,12 @@ p{
     }
 }
 
+@media screen and (max-width: 992px){
+    h1{
+        font-size: 2rem;
+    }
+}
+
 nav{
     background: var(--clr-white);
     box-shadow: var(--light-shadow);
