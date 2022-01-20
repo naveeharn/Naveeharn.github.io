@@ -11,13 +11,13 @@ const reviews = [
     {
         name: 'naveeharn',
         job: 'frontend',
-        img: './assets/img-02.jpeg',
+        img: './assets/img-02.JPEG',
         text: "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.",
     },
     {
         name: 'naveeharn',
         job: 'backend',
-        img: './assets/img-03.jpeg',
+        img: './assets/img-03.JPEG',
         text: "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
     },
     {
